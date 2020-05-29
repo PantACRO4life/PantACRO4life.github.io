@@ -17,7 +17,7 @@
 [Mods Collection link page](https://steamcommunity.com/sharedfiles/filedetails/?id=2086028655)
 ## Server List
 #### Server #1 The Island
-[Connect](https://steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26080)
+<a href="steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26080" target="_blank">Connect</a>
 #### Server #2 Scorched Earth
 [Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26081)
 #### Server #3 Aberration
