@@ -11,7 +11,7 @@
 ## Getting Started
 ### Prerequisites
 **Member of the discord.**
-- [Discord](#support)
+- While on the [Discord](#support), 
 **Ask to be added to the exclusive list so you can join the server!**
 
 **Download the mods collection by subscribing.**
