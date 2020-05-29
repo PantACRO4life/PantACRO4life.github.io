@@ -1,5 +1,3 @@
-
- 
 ## Ark Survival Evolved
 **Ark all Maps Cross-Ark Server!! Join the Red Industries Society team!**
 ## Table of Contents
@@ -11,7 +9,7 @@
 - [Support](#support)
 
 ## Getting Started
-## Prerequisites
+#### Prerequisites
 **Member of the discord.**
 - [Discord](#support)
 **Ask to be added to the exclusive list so you can join the server!**
