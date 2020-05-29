@@ -7,11 +7,20 @@
 - [Prerequisites](#prerequisites)
 - [Mods Collection](#mods-collection)
 - [Server List](#server-list)
-- [Server Multiplier - WIP](#server-multiplier)
+- [Server Multiplier](#server-multiplier)
 - [Support](#support)
 
 ## Getting Started
 ## Prerequisites
+**Member of the discord.**
+- [Discord](#support)
+**Ask to be added to the exclusive list so you can join the server!**
+
+**Download the mods collection by subscribing.**
+- [Mods Collection](#mods-collection)
+
+**Have some fun!**
+
 ## Mods Collection
 **It is recommanded to subscribe to the mods before joining the server.**
 [Mods Collection link page](https://steamcommunity.com/sharedfiles/filedetails/?id=2086028655)
@@ -35,5 +44,6 @@
 #### Server #9 Crystal Isles - Coming soon
 [Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26088)
 ## Server Multiplier
+**WIP**
 ## Support
 Please [join us on discord](https://discord.gg/fdRcMTv) for support.
