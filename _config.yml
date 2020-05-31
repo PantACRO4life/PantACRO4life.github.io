@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+title: Page Test
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
