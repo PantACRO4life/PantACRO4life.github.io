@@ -1,5 +1,5 @@
 title: Red Industries Society - Ark Survival Evolved
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
