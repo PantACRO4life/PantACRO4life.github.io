@@ -1,8 +1,4 @@
-<link rel="icon" href="src/favicon.ico" type="image/gif" sizes="16x16">
-  
-  
-# Red Industries Society - Ark Survival Evolved
-**Ark all Maps Cross-Ark Server!! Join the Red Industries Society team!**
+# Ark all Maps Cross-Ark Server!! Join the Red Industries Society team!
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
