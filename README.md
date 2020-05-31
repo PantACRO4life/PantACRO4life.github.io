@@ -1,4 +1,5 @@
-## Ark all Maps Cross-Ark Server!! Join the Red Industries Society team!
+# Red Industries Society
+**Ark all Maps Cross-Ark Server!! Join the Red Industries Society team!**
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
