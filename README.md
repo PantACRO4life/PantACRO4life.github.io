@@ -1,4 +1,4 @@
-**Ark all Maps Cross-Ark PvPvE Server!! Join the Red Industries Society team!***
+**Ark all Maps Cross-Ark PvPvE Server!! Join the The Island - Red Industries Society team!***
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
@@ -150,6 +150,6 @@ Please [join us on discord](https://discord.gg/fxK6Va6) for support.
 [↑ Top ↑](#table-of-contents)
 
 ## Cluster
-*Please Note that not all the time all the map will be running. The server can handle 4-5 maps at same time depending on the load. If you wish to go on a specifics maps just lets us know.
+*Please Note that not all the time all the map will be running. If you wish to go on a specifics maps like "Ragnarok, Valguero or The Center" just lets us know.
 
 [↑ Top ↑](#table-of-contents)
