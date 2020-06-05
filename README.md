@@ -4,8 +4,11 @@
 - [Prerequisites](#prerequisites)
 - [Mods Collection](#mods-collection)
 - [Server List & Quick Connect Button](#server-list)
+- [Server Settings](#server-settings)
 - [Server Multiplier](#server-multiplier)
+- [Dino Breeding Multipliers](#dino-breeding-multipliers)
 - [Support](#support)
+- [Cluster](#cluster)
 
 ## Getting Started
 ### Prerequisites
@@ -86,6 +89,5 @@
 Please [join us on discord](https://discord.gg/fdRcMTv) for support.
 
 
-**Cluster**
-
+## Cluster
 *Please Note that not all the time all the map will be running. The server can handle 4-5 maps at same time depending on the load. If you wish to go on a specifics maps just lets us know
