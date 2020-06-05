@@ -18,30 +18,34 @@
 **Download the mods collection by subscribing.**
 - [Mods Collection](#mods-collection)
 
+[↑ Top ↑](#table-of-contents)
+
 **Have some fun!**
 
 ## Mods Collection
 **It is recommanded to subscribe to the mods before joining the server.**
 [Mods Collection link page](https://steamcommunity.com/sharedfiles/filedetails/?id=2086028655)
 ## Server List
-#### Server #1 The Island
+### Server #1 The Island
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26080)
-#### Server #2 Scorched Earth
+### Server #2 Scorched Earth
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26081)
-#### Server #3 Aberration
+### Server #3 Aberration
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26082)
-#### Server #4 Extinction
+### Server #4 Extinction
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26083)
-#### Server #5 Genesis
+### Server #5 Genesis
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26084)
-#### Server #6 Ragnarok
+### Server #6 Ragnarok
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26085)
-#### Server #7 Valguero
+### Server #7 Valguero
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26086)
-#### Server #8 The Center
+### Server #8 The Center
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26087)
-#### Server #9 Crystal Isles - Coming soon
+### Server #9 Crystal Isles - Coming soon
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26088)
+
+[↑ Top ↑](#table-of-contents)
 ## Server Settings
 - **Allow Baby Dino Imprint Cuddle By Anyone [YES]**
 - **Allow Raid Dino Feeding [YES]**
@@ -53,6 +57,8 @@
 - **Genesis Allow TekSuit Power [YES]**
 - **Allow Foreign Dino Downloads [YES]**
 - **Tribute Data [5 Days]**
+
+[↑ Top ↑](#table-of-contents)
 ## Server Multiplier
 ### Players
 - **XP Multiplier [x2]**
@@ -85,9 +91,14 @@
 - **Cuddle Interval [x0.012]**
 - **Cuddle Grace Period [x10]**
 - **Cuddle Lose Imprint Quality Speed [x0.01]**
+
+[↑ Top ↑](#table-of-contents)
 ## Support
 Please [join us on discord](https://discord.gg/fdRcMTv) for support.
 
+[↑ Top ↑](#table-of-contents)
 
 ## Cluster
 *Please Note that not all the time all the map will be running. The server can handle 4-5 maps at same time depending on the load. If you wish to go on a specifics maps just lets us know
+
+[↑ Top ↑](#table-of-contents)
