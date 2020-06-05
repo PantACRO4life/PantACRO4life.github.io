@@ -14,7 +14,7 @@
 ## Getting Started
 ### Prerequisites
 **Member of the discord.**
-- **While on the [Discord](https://discord.gg/fdRcMTv), Ask to be added to the exclusive list so you can join the server!**
+- **It is a private/public server, so while on the [Discord](https://discord.gg/fdRcMTv), Ask to be added to the exclusive list so you can join the server!**
 
 **Download the mods collection by subscribing.**
 - [Mods Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2086028655)
