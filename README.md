@@ -14,10 +14,10 @@
 ## Getting Started
 ### Prerequisites
 **Member of the discord.**
-- **While on the [Discord](#support), Ask to be added to the exclusive list so you can join the server!**
+- **While on the [Discord](https://discord.gg/fdRcMTv), Ask to be added to the exclusive list so you can join the server!**
 
 **Download the mods collection by subscribing.**
-- [Mods Collection](#mods-collection)
+- [Mods Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2086028655)
 
 [↑ Top ↑](#table-of-contents)
 
