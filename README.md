@@ -67,6 +67,7 @@
 
 [↑ Top ↑](#table-of-contents)
 ## Server Feature
+- **Server is set to be PvPvE. Declare war if you wish to kill people!**
 - **Cross chat**
 - **Discord with Bot to help you along your journey**
 - **Exclusive server**
