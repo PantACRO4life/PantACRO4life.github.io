@@ -70,6 +70,7 @@
 - **Cross chat**
 - **Discord with Bot to help you along your journey**
 - **Exclusive server**
+- **You can join the server as soon as you are added to the list by an admin. The server doesnt require restart!**
 
 ## Server Settings
 - **Allow Baby Dino Imprint Cuddle By Anyone [YES]**
