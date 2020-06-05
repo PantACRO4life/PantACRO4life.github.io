@@ -1,4 +1,4 @@
-**Ark all Maps Cross-Ark Server!! Join the Red Industries Society team!**
+**Ark all Maps Cross-Ark PvPvE Server!! Join the Red Industries Society team!***
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
@@ -39,6 +39,17 @@
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26087)
 #### Server #9 Crystal Isles - Coming soon
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26088)
+## Server Settings
+- **Allow Baby Dino Imprint Cuddle By Anyone [YES]**
+- **Allow Raid Dino Feeding [YES]**
+- **Allow Flyers in Cave [YES]**
+- **Allow Multiple Attached C4 [YES]**
+- **Enable Flyer-Carry [YES]**
+- **Mind Wipe Limit [NO]**
+- **Cave Building [NO]**
+- **Genesis Allow TekSuit Power [YES]**
+- **Allow Foreign Dino Downloads [YES]**
+- **Tribute Data [5 Days]**
 ## Server Multiplier
 ### Players
 - **XP Multiplier [x2]**
@@ -73,3 +84,8 @@
 - **Cuddle Lose Imprint Quality Speed [x0.01]**
 ## Support
 Please [join us on discord](https://discord.gg/fdRcMTv) for support.
+
+
+**Cluster**
+
+*Please Note that not all the time all the map will be running. The server can handle 4-5 maps at same time depending on the load. If you wish to go on a specifics maps just lets us know
