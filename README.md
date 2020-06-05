@@ -65,14 +65,17 @@
 Happy summer to everyone in that covid time!**
 
 ### Whats Boosted?
+
 #### Dinos
 - **Egg hatching speed [x18 → x23]**
 - **Mating interval [x0.0035 → x0.0025]**
 - **Mating speed [x2 → x7]**
 - **Maturation speed [x75 → x80]**
 - **Cuddle interval [x0.012 → x0.009]**
+
 #### Earned XP Multipliers:
 - **Player XP multiplier [x2 → x6]**
+
 #### Environment:
 - **Harvesting amount [x2.5 → x4.5]**
 
