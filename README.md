@@ -150,6 +150,6 @@ Please [join us on discord](https://discord.gg/fxK6Va6) for support.
 [↑ Top ↑](#table-of-contents)
 
 ## Cluster
-*Please Note that not all the time all the map will be running. If you wish to go on a specifics maps like "Ragnarok, Valguero or The Center" just lets us know.
+*Please Note that the free map DLC wont be running all the time. If you wish to go on a specifics maps like "Ragnarok, Valguero or The Center" just lets us know.
 
 [↑ Top ↑](#table-of-contents)
