@@ -4,6 +4,7 @@
 - [Prerequisites](#prerequisites)
 - [Mods Collection](#mods-collection)
 - [Server List & Quick Connect Button](#server-list)
+- [Server Feature](#server-feature)
 - [Server Settings](#server-settings)
 - [Event](#summer-event)
 - [Server Multiplier](#server-multiplier)
@@ -65,6 +66,11 @@
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26088)
 
 [↑ Top ↑](#table-of-contents)
+## Server Feature
+- **Cross chat**
+- **Discord with Bot to help you along your journey**
+- **Exclusive server**
+
 ## Server Settings
 - **Allow Baby Dino Imprint Cuddle By Anyone [YES]**
 - **Allow Raid Dino Feeding [YES]**
