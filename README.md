@@ -40,6 +40,36 @@
 #### Server #9 Crystal Isles - Coming soon
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26088)
 ## Server Multiplier
-**WIP**
+### Players
+- **XP Multiplier [x2]**
+- **Harvesting Damage [x2.5]**
+- **Resistance [x1.1]**
+#### Per-Level Stats Multipliers
+- **Health [x2]**
+- **Stamina [x2.5]**
+- **Oxygen [x2]**
+- **Weight [x5]**
+- **Damage [x2.5]**
+- **Speed [x1.4]**
+- **Fortitude [x2]**
+- **Crafting [x2]**
+### Dinos
+- **Pasive Tame Interval [x0.7]**
+- **Health Recovery [x1.2]**
+- **Harvesting Damage [x3]**
+- **Turret Damage [x2]**
+#### Per-Level Stats Multipliers
+- **Stamina [x3]**
+- **Weight [x2]**
+- **Speed [x1.4]**
+## Dino Breeding Multipliers
+- **Mating Interval [x0.0035]**
+- **Mating Speed [x2]**
+- **Egg Hatch Speed [x18]**
+- **Baby Mature Speed [x75]**
+- **Imprinting Stat Scale [x1.5]**
+- **Cuddle Interval [x0.012]**
+- **Cuddle Grace Period [x10]**
+- **Cuddle Lose Imprint Quality Speed [x0.01]**
 ## Support
 Please [join us on discord](https://discord.gg/fdRcMTv) for support.
