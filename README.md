@@ -61,7 +61,7 @@
 
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26087)
 
-### Server #9 Crystal Isles - Coming soon
+### Server #9 Crystal Isles
 
 [Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26088)
 
