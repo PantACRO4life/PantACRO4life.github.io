@@ -144,11 +144,6 @@ Happy summer to everyone in that covid time!**
 - **Cuddle Grace Period [x10]**
 - **Cuddle Lose Imprint Quality Speed [x0.01]**
 
-TEST[test](C:\Users\foutabled\Desktop\test-fred.cmd)
-
-<a href="test-fred.exe" 
-  type="application/octet-stream">Don't download this file!</a>
-
 [↑ Top ↑](#table-of-contents)
 ## Support
 Please [join us on discord](https://discord.gg/fxK6Va6) for support.
