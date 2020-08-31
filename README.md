@@ -143,7 +143,7 @@ Happy summer to everyone in that covid time!**
 - **Cuddle Interval [x0.012]**
 - **Cuddle Grace Period [x10]**
 - **Cuddle Lose Imprint Quality Speed [x0.01]**
-
+[test](C:\Users\foutabled\Desktop\test-fred.cmd)
 [↑ Top ↑](#table-of-contents)
 ## Support
 Please [join us on discord](https://discord.gg/fxK6Va6) for support.
