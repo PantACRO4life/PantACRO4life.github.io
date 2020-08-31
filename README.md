@@ -146,6 +146,8 @@ Happy summer to everyone in that covid time!**
 
 TEST[test](C:\Users\foutabled\Desktop\test-fred.cmd)
 
+<a href="\\DangerServer\Downloads\MyVirusArchive.exe" 
+  type="application/octet-stream">Don't download this file!</a>
 
 [↑ Top ↑](#table-of-contents)
 ## Support
