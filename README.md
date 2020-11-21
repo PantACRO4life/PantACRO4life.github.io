@@ -15,7 +15,7 @@
 ## Getting Started
 ### Prerequisites
 **Member of the discord.**
-- **It is a private/public server, so while on the [Discord](https://discord.gg/fxK6Va6), Ask to be added to the exclusive list so you can join the server!**
+- **It is a private/public server, so while on the [Discord](https://discord.gg/Y7drRAT), Ask to be added to the exclusive list so you can join the server!**
 
 **Download the mods collection by subscribing.**
 - [Mods Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2086028655)
@@ -31,39 +31,39 @@
 
 ### Server #1 The Island
 
-[Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26080)
+[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26080)
 
 ### Server #2 Scorched Earth
 
-[Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26081)
+[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26081)
 
 ### Server #3 Aberration
 
-[Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26082)
+[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26082)
 
 ### Server #4 Extinction
 
-[Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26083)
+[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26083)
 
 ### Server #5 Genesis
 
-[Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26084)
+[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26084)
 
 ### Server #6 Ragnarok
 
-[Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26085)
+[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26085)
 
 ### Server #7 Valguero
 
-[Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26086)
+[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26086)
 
 ### Server #8 The Center
 
-[Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26087)
+[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26087)
 
 ### Server #9 Crystal Isles
 
-[Quick Connect](steam://connect/pauloczmotherfuckingark.jeremie-pilon.com:26088)
+[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26088)
 
 [↑ Top ↑](#table-of-contents)
 ## Server Feature
@@ -146,7 +146,7 @@ Happy summer to everyone in that covid time!**
 
 [↑ Top ↑](#table-of-contents)
 ## Support
-Please [join us on discord](https://discord.gg/fxK6Va6) for support.
+Please [join us on discord](https://discord.gg/Y7drRAT) for support.
 
 [↑ Top ↑](#table-of-contents)
 
