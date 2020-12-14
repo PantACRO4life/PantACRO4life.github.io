@@ -48,7 +48,6 @@
 ### Server #5 Genesis
 
 [Quick Connect](steam://connect/ris-hub.jeremie-pilon.ca:26084)
-[Quick Connect](steam://connect/ris-hub.jeremie-pilon.ca:27016)
 
 ### Server #6 Ragnarok
 
