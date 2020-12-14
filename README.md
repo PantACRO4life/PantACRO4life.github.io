@@ -31,39 +31,39 @@
 
 ### Server #1 The Island
 
-[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26080)
+[Quick Connect](steam://connect/ris-hub.jeremie-pilon.ca:26080)
 
 ### Server #2 Scorched Earth
 
-[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26081)
+[Quick Connect](steam://connect/ris-hub.jeremie-pilon.ca:26081)
 
 ### Server #3 Aberration
 
-[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26082)
+[Quick Connect](steam://connect/ris-hub.jeremie-pilon.ca:26082)
 
 ### Server #4 Extinction
 
-[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26083)
+[Quick Connect](steam://connect/ris-hub.jeremie-pilon.ca:26083)
 
 ### Server #5 Genesis
 
-[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26084)
+[Quick Connect](steam://connect/ris-hub.jeremie-pilon.ca:26084)
 
 ### Server #6 Ragnarok
 
-[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26085)
+[Quick Connect](steam://connect/ris-hub.jeremie-pilon.ca:26085)
 
 ### Server #7 Valguero
 
-[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26086)
+[Quick Connect](steam://connect/ris-hub.jeremie-pilon.ca:26086)
 
 ### Server #8 The Center
 
-[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26087)
+[Quick Connect](steam://connect/ris-hub.jeremie-pilon.ca:26087)
 
 ### Server #9 Crystal Isles
 
-[Quick Connect](steam://connect/ark.jeremie-pilon.ca:26088)
+[Quick Connect](steam://connect/ris-hub.jeremie-pilon.ca:26088)
 
 [↑ Top ↑](#table-of-contents)
 ## Server Feature
